@@ -2,5 +2,13 @@
   "index": {
     "type": "page",
     "title": "Home"
+  },
+  "resources": {
+    "type": "page",
+    "title": "Resources"
+  },
+  "about": {
+    "type": "page",
+    "title": "About Us"
   }
 }
